@@ -1,6 +1,6 @@
 What?
 
-Lambda function to shut down instances if they have tag AutoOff:True
+Lambda function to shut down instances if they have tag AutoOff:True and send an email notification 
 
 How?
 
