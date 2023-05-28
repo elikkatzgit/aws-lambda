@@ -1,7 +1,9 @@
 What?
+
 Lambda function to shut down instances if they have tag AutoOff:True
 
-Howw?
+How?
+
 Login to your AWS console
 
 - Go to SES service 
