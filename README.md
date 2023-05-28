@@ -3,7 +3,7 @@ Login to your AWS console
 
 - Go to SES service 
 1. Verified identities > Create entity with your gmail account
-2. GO to your email and verify your email address by clicking a link
+2. Go to your email and verify your email address by clicking a link
 
 - Go to IAM service
 1. Roles > create role > Trusted entity type = AWS service > Use case = ec2
